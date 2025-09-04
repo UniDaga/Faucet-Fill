@@ -1,0 +1,14 @@
+{
+  "name": "kite-faucet-fill",
+  "version": "1.0.0",
+  "description": "A script to send KITE tokens to multiple addresses on the Kite testnet",
+  "main": "fill.js",
+  "scripts": {
+    "start": "node fill.js"
+  },
+  "dependencies": {
+    "ethers": "^6.14.3"
+  },
+  "author": "KMNO",
+  "license": "MIT"
+}
